@@ -14,39 +14,35 @@ Ecma 6
 > array
 > loops
 > String literals
--------------------------
 > functions 
+> Clousers
 > Es6
     > lat, const
     > maps,filter
-> Clousers
 > regex
 > Hoisting
 > object 
-> Transpile
+> Prototypes
 > Es6
     > classes
     > import export
-> Prototypes
+> Transpile
 > DoM
 > Event
 > Calc
-> Form validation
 > Geolocation
-> Progress bar
+> Form validation
 > promis
+> Currency Convereter
+> Github
+> Progress bar
 > async await
+> JSON
 > Baisc Jquery
 > Weather application
 > ajax
-> JSON
-> Github
+-------------------------
 
-20-25
-V8 compiler
-
-///Next Topic///
-function 
 
 gitbash
 https://git-scm.com/downloads
@@ -63,3 +59,15 @@ git push -u origin master
 git add .
 git commit -m "first commit"
 git push
+
+
+///
+package.json 
+npm
+babel
+
+/*********
+> navgiate to folder where you want to generate this filee
+> npm init -y
+
+> npm i @babel/core @babel/preset-env @babel/register
